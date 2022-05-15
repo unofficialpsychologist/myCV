@@ -6,16 +6,16 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Alex Albright
+author: Hannah Blackburn
 
-jobtitle: "PhD Candidate in Economics, Harvard University"
-#address: "Littauer Center · 1805 Cambridge Street · Cambridge, MA 02138"
+jobtitle: "PhD applicant, Fall 2023"
+#address: "Carrboro, NC"
 #fontawesome: no
-email: apalbright@g.harvard.edu
-web: albrightalex.com
-#github: apalbright
-#twitter: allbriteallday
-#phone: "917-751-1910"
+email: unofficialpsychologist@gmail.com
+web: unofficialpsychologist.wordpress.com
+#github: unofficialpsychologist
+#twitter: @hannah_h_b
+#phone: "919-932-0885"
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -29,27 +29,23 @@ urlcolor: blue
 
 # Education
 
-- Ph.D. Economics, Harvard University \hfill Expected May 2022
-
-- A.M. Economics, Harvard University  \hfill May 2019
-
-- B.A. Mathematics & Economics (Highest Honors), Williams College \hfill June 2014
+- B.A. Economics (Highest Honors), Middlebury College \hfill May 2017
 
 # Research Interests
 
-- Labor Economics, Law and Economics, Inequality, Economic History
+- Causal inference, adolescent development, late diagnosis adult ADHD, combining quant and qual data
 
-# Working Papers
+# Research experience
 
-- "No Money Bail No Problems? Evidence from Kentucky's Automatic Release Program"
+- Predoctoral fellow in economic research at UCSD \hfill 2019-2020
 
-- "If You Give a Judge a Risk Score"
+- Associate at IDinsight \hfill 2017-2019
 
-- "After The Burning: The Economic Effects of the 1921 Tulsa Race Massacre" with Jeremy Cook, James Feigenbaum, Laura Kincaide, Jason Long, and Nathan Nunn
+- Senior thesis with highest honors at Middlebury College \hfill 2017
 
-- "Uncorking Expert Reviews with Social Media: A Case Study Served with Wine" with Peter Pedroni and Steven Sheppard
+- Research assistant to Prof. Julia Berazneva at Middlebury College \hfill 2016
 
-# Awards, Grants, and Fellowships
+# Teaching experience
 
 - Abrams Family Economics Dissertation Fellowship, Harvard University \hfill 2022
 - Irving Louis Horowitz Award (most outstanding project), Horowitz Foundation \hfill 2021
@@ -75,7 +71,7 @@ urlcolor: blue
 <!-- - Summer Research and Travel Award, Harvard University \hfill 2018 -->
 <!-- - Graduate Fellowship, Harvard University \hfill 2016 - Present -->
 
-# Professional Activities
+# Research skills
 
 *Invited Seminars*
 
@@ -105,7 +101,7 @@ urlcolor: blue
 
 - *2019*: WIRED, Axios
 
-# Professional Service
+# Other
 
 *Referee Service*
 
