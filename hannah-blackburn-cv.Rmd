@@ -15,7 +15,7 @@ email: unofficialpsychologist@gmail.com
 web: unofficialpsychologist.wordpress.com
 #github: unofficialpsychologist
 #twitter: @hannah_h_b
-#phone: "919-932-0885"
+#phone: "919..."
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -31,6 +31,8 @@ urlcolor: blue
 
 - B.A. Economics (Highest Honors), Middlebury College \hfill May 2017
 
+    - Phi Beta Kappa, 3.90 GPA, Global health minor
+
 # Research Interests
 
 - Causal inference, adolescent development, late diagnosis adult ADHD, combining quant and qual data
@@ -39,101 +41,71 @@ urlcolor: blue
 
 - Predoctoral fellow in economic research at UCSD \hfill 2019-2020
 
+    - Explanation of what I did here.
+
 - Associate at IDinsight \hfill 2017-2019
+
+    - Explanation of what I did here.
 
 - Senior thesis with highest honors at Middlebury College \hfill 2017
 
+    - Explanation of what I did here.
+
 - Research assistant to Prof. Julia Berazneva at Middlebury College \hfill 2016
+
+    - Explanation of what I did here.
 
 # Teaching experience
 
-- Abrams Family Economics Dissertation Fellowship, Harvard University \hfill 2022
-- Irving Louis Horowitz Award (most outstanding project), Horowitz Foundation \hfill 2021
-- Horowitz Foundation Dissertation Prize, Horowitz Foundation \hfill 2021
-- James M. and Cathleen D. Stone Ph.D. Scholar, Harvard Kennedy School \hfill 2018-22
-- Certificate of Distinction in Teaching (4 times), Harvard Bok Center \hfill 2018-21
-- Law and Economics Fellows Writing Prize, Harvard Law School \hfill 2019
-- Terence M. Considine Fellow in Law and Economics, Harvard Law School \hfill 2018-21 
-- Foundations of Human Behavior Grant (with James Feigenbaum & Nathan Nunn) \hfill 2019
-- Inequality in America Grant (with James Feigenbaum & Nathan Nunn) \hfill 2019 
-- Christophe Baron Prize, American Association of Wine Economists \hfill 2016
-- Best Lightning Talk Presenter, Oxford University Connected Life Conference \hfill 2015
-- Carl Van Duyne Prize in Economics, Williams College \hfill 2014
-- Gold Medalist, New York City Math Fair \hfill 2008
+- High school math teacher at Orange High School \hfill 2021-present
 
-<!-- - Research Scholarship, American Association of Wine Economists \hfill 2018 -->
-<!-- - Phi Beta Kappa, Williams College \hfill 2014 -->
-<!-- - Economics Highest Honors, Williams College \hfill 2014 -->
-<!-- - Economics Department Class of 1960 Scholar, Williams College \hfill 2013 - 2014 -->
-<!-- - National Merit Finalist \hfill 2010 -->
-<!-- - Research Grant, Bradley Foundation \hfill 2019 -->
-<!-- - J-PAL Criminal Justice Reform Proposal Development Grant *(w/ Alley Edlebi)* \hfill 2019 - 2020 -->
-<!-- - Summer Research and Travel Award, Harvard University \hfill 2018 -->
-<!-- - Graduate Fellowship, Harvard University \hfill 2016 - Present -->
+    - AP Statistics, Math 4, Math 3, Math 1
+
+- Private math tutor \hfill 2020-2021
+
+    - Math 6 through AP Calculus
 
 # Research skills
 
-*Invited Seminars*
+General data skills
+- Software: R, Stata, ArcGIS, RMarkdown, GitHub, Qualtrics
+    - Specific R packages: {tidyverse} {ggplot} {rvest} and writing new functions
+- Data tidying and cleaning
+- Data security, privacy, ethics
+- Reproducible & open research practices
+- Power calculations
+- Calculating intraclass correlations
+- Monte Carlo simulations
 
-- *2022 (incl. scheduled)*: London School of Economics, Federal Reserve Bank of Minneapolis, Consumer Financial Protection Bureau, Rutgers Economics, Department of Justice, RAND, Mathematica
+Presenting research
+- Presentation from Williams College conference
+- Presentation at Midd thesis conference
 
-- *2018-21*: Vancouver School of Economics, Economics of Crime Online Seminar Series, Judicial Council of California, R-Ladies Boston
+Writing grants 
+- GlobeMed funding for work in Rwanda
 
-*Conference Presentations* 
+Networking
+- IDi work in South Africa
+- Stats twitter haha
 
-- *2021*: NBER Decentralization Conference (virtual; invited discussant), ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (virtual)
+Analytic methods
+- Randomized controlled trial
+- Geographic regression discontinuity design
+- Instrumental variable
+- Correlational/descriptive
 
-- *2020:* Southern Economic Association Annual Conference (virtual), Annual Meeting of the American Law and Economics Association (canceled due to Covid-19)
+Data collection 
+- Survey administration in the field (in Kenya and Jharkhand, India)
+- Accessing proprietary datasets (thesis)
+- Scraping data from html websites
 
-- *2019:* Eighth Meeting for the Society for the Study of Economic Inequality (Paris School of Economics)
-
-- *2015-18:* American Association of Wine Economists Conference (Cornell University), EARL Conference (Boston), American Association of Wine Economists Conference (Université de Bordeaux), Connected Life Conference (Oxford University), Bloomberg Data for Good Exchange (NYC), Strata+Hadoop World Conference (NYC)
-
-*Invited Guest Lectures*
-
-- *2021*: Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (October 14)
-
-- *2019*: Harvard Government Department "Data" Course (April 2 & November 7), Professor Louis Kaplow and Steve Shavell's "Law and Economics" Course at Harvard Law (March 5)
-
-*Press Coverage*
-
-- *2021*: The New York Times, CNN, TIME Magazine, CNBC, NBER Digest, Black Enterprise, The Root, Business Insider, Probable Causation Podcast, Phenomenal World 
-
-- *2019*: WIRED, Axios
 
 # Other
 
-*Referee Service*
+Self-study in psychology \hfill 2021-2022
 
-- *Quarterly Journal of Economics, Journal of Urban Economics*, *Review of Economics and Statistics*
+- Courses: PsyTeachR from University of Glasgow, Intro to SEM from Curran-Bauer Analytics, Introduction to Psychology from MIT opencourseware
 
-*Events Organized*
+- Textbooks: Stangor, Running Randomized Evaluations by Rachel Glennerster, Mastering 'Metrics by Angst & Pischke, Using Econometrics: A Practical Guide by A. H. Studenmund
 
-- *2020:* "Heterogeneity by Gender: Evidence from JMPs", Harvard Economics (co-organized with Stephanie Kestelman)
 
-*Community Service*
-
-- Founding Member, Harvard Graduate Women in Economics \hfill 2017-21
-- Master of Ceremonies, Harvard Economics Holiday Party \hfill 2018 & 2020
-
-<!-- - Harvard Economics Peer Mentor \hfill 2017-18 -->
-
-# Other Publications 
-
-*Popular Writing*
-
-- "We analyzed every 'Modern Love' column from the past 10 years. Here's what we learned about love" with Emma Pierson. Quartz. 2017.
-
-- "Which U.S. State Performs Best in the New Yorker Caption Contest?" with Bob Mankoff. The New Yorker. 2015.
-
-*Conference Proceedings*
-
-- "One Size Does Not Fit All: The Shortcomings of the Mainstream Data Scientist Working for Social Good" with Sarah Levine. Proceedings of the Bloomberg Data for Good Exchange. 2015.
-
-# Teaching 
-
-- Undergraduate Thesis Writer Seminar (Harvard Economics), Seminar Leader \hfill 2020-21
-
-- Undergraduate Thesis Writer Seminar (Harvard Economics), Seminar Leader \hfill 2018-19
-
-- Empirical Debates in Law and Policy (Stanford Law), Teaching Assistant \hfill  2014
